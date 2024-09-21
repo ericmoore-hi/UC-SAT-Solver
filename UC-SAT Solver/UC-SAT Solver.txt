@@ -1,9 +1,8 @@
-# This code is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
-# You are free to share and adapt the material under the following terms:
-# 1. Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-# 2. Non-Commercial: You may not use the material for commercial purposes without explicit permission from the author.
-# For the full license text, please request via email: ericmoore@financier.com
-# License details: https://creativecommons.org/licenses/by-nc/4.0/
+# This code is licensed under the Affero General Public License v1.0 only.
+# You are free to use, modify, and distribute the code under the following terms:
+# 1. Attribution: You must provide proper credit, including a link to the license, and indicate if any changes were made.
+# 2. Non-Commercial: Commercial use of this code is prohibited without explicit permission from the author.
+# For permissions beyond this license, contact: ericmoore@financier.com
 
 import wx
 import wx.grid as gridlib
